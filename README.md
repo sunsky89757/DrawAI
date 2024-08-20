@@ -11,3 +11,9 @@ git clone https://github.com/sunsky89757/DrawAI.git
 2. 选择一个域名，例如www.aaa.com，A解析至宝塔服务器。
 3. 申请ssl证书。
 4. www.aaa.com 绑定至文件夹www/wwwroot/DrawAI完成。
+
+## 使用方式
+
+输入接口和对应的API Key，然后根据绘图需要填写，点击生成即可。
+
+![usedrawai](/img/drawaisuse.webp)
